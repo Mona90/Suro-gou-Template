@@ -1,1 +1,2 @@
 # Suro gou
+Responsive Template
